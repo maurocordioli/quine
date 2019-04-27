@@ -1,0 +1,7 @@
+[package]
+name = "quine"
+version = "0.1.0"
+authors = ["mauro cordioli <mauro.cordioli@ezlab.it>"]
+edition = "2018"
+
+[dependencies]
